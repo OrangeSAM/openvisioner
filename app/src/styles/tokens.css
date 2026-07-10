@@ -1,0 +1,112 @@
+/* 敞亮人 — 拂晓 (First Light) 设计语言
+   概念：晨光初入房间的那一刻——"敞亮"的字面意象。
+   暖白纸色打底，一处金色微光作为签名元素，冷色天青作为呼吸感对比。 */
+
+@font-face {
+  font-family: "Fraunces Display";
+  src: url("/fonts/fraunces-variable.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Fraunces Display";
+  src: url("/fonts/fraunces-variable.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Fraunces Display";
+  src: url("/fonts/fraunces-italic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+:root {
+  /* 拂晓色板 */
+  --paper: #fbf6ec;
+  --paper-lifted: #ffffff;
+  --ink: #23201a;
+  --ink-soft: #6b6355;
+  --ink-faint: #a89f8c;
+  --dawn: #e8a33d;
+  --dawn-ink: #6b4413;
+  --sky: #3e7c8a;
+  --sky-bg: #e7f0f0;
+  --coral: #e2694a;
+  --coral-bg: #fbe9e2;
+  --mist: #eae0cb;
+  --rust: #b4432e;
+  --rust-bg: #fbeae3;
+
+  /* 字体角色 */
+  --font-display: "Fraunces Display", "Songti SC", serif;
+  --font-body: "PingFang SC", "Noto Sans SC", "Microsoft YaHei", -apple-system,
+    BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-mono: ui-monospace, "SF Mono", "Menlo", monospace;
+
+  /* 间距节奏（4px 基准） */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-14: 3.5rem;
+
+  /* 圆角 */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-pill: 999px;
+
+  /* 阴影（暖调，非纯黑） */
+  --shadow-sm: 0 1px 2px rgba(35, 32, 26, 0.06);
+  --shadow-md: 0 4px 16px rgba(35, 32, 26, 0.08);
+  --shadow-lg: 0 16px 48px rgba(35, 32, 26, 0.16);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+}
+
+#app {
+  height: 100%;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+input {
+  font-family: inherit;
+}
+
+:focus-visible {
+  outline: 2px solid var(--sky);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

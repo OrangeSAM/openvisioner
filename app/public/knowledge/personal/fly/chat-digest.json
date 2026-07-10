@@ -1,0 +1,39 @@
+{
+  "generated_note": "本摘要基于智能客服产品开发组、智能客服技术选型讨论群近期消息生成，仅保留要点，不含原始发言人与逐字引用，仅供 Push 场景检索使用。",
+  "source_chats": [
+    "智能客服产品开发组",
+    "智能客服技术选型讨论"
+  ],
+  "digest": [
+    {
+      "topic": "v1.3.0.1 人工坐席IM 已提测",
+      "summary": "v1.3.0.1 人工坐席IM 版本已完成开发并提交测试，覆盖用户端H5聊天接入排队机制、管理端数据概览、实时聊天与转接、智能排班、坐席管理五大模块。",
+      "related_docs": [
+        "department/qqz/req-v1.3.0.1-agent-im.md",
+        "department/qqz/tech-agent-im.md"
+      ]
+    },
+    {
+      "topic": "v1.2.9.2 联运需求排期",
+      "summary": "v1.2.9.2 联运需求进入开发阶段，排期为一周左右，团队计划周末加班以赶上进度。",
+      "related_docs": []
+    },
+    {
+      "topic": "IM 框架技术选型讨论",
+      "summary": "团队倾向基于成熟开源 IM 框架二次开发（而非从零自研），技术栈围绕 Gin + gRPC；同时讨论了服务端基础框架选型思路（部分团队使用 go-zero 搭建公共服务），中间件覆盖 MySQL、MongoDB、Redis、RabbitMQ、Kafka、etcd。",
+      "related_docs": [
+        "department/qqz/tech-agent-im.md"
+      ]
+    },
+    {
+      "topic": "技术选型安全提醒",
+      "summary": "讨论中特别提醒：基于开源框架二次开发后，需要持续关注安全漏洞跟进与快速响应能力，这是选型评估的重要因素之一。",
+      "related_docs": []
+    },
+    {
+      "topic": "研发协作基础设施沉淀",
+      "summary": "团队已建立独立代码仓库，并沉淀了可复用的项目模板与开发规范（如 Go 项目模板、代码规范文档），供新成员上手参考。",
+      "related_docs": []
+    }
+  ]
+}

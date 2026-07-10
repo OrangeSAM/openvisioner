@@ -1,0 +1,17 @@
+{
+  "documents": [
+    { "path": "company/culture-open-world.md", "title": "敞亮世界（企业文化）", "domain": "company", "sourceUrl": "https://openvision.sg.larksuite.com/wiki/Q2alwnDAmiHpUBkKnKDl1ohygDc" },
+    { "path": "company/policy-hr.md", "title": "人力资源制度", "domain": "company", "sourceUrl": "https://openvision.sg.larksuite.com/wiki/IbSMwGnqPiAhFwk4NBXluN7Kgng" },
+    { "path": "company/policy-admin.md", "title": "行政制度", "domain": "company", "sourceUrl": "https://openvision.sg.larksuite.com/wiki/PQbhwdmDli2tlakInrzlD0apglf" },
+    { "path": "company/policy-finance.md", "title": "财务制度", "domain": "company", "sourceUrl": "https://openvision.sg.larksuite.com/wiki/XlX3w60GZiji9VknYr6lqV58gJb" },
+    { "path": "company/ai-lab-coding-guide.md", "title": "AI编程落地指引", "domain": "company", "sourceUrl": "https://openvision.sg.larksuite.com/wiki/Oo89dTLFKo6g1AxXqMalO9PwgNd" },
+    { "path": "department/qqz/onboarding.md", "title": "部门新人入职", "domain": "department", "sourceUrl": "https://openvision.sg.larksuite.com/wiki/Q1igw2LbRiDJZpkPamhlDe4Jg1a" },
+    { "path": "department/qqz/product-intro.md", "title": "智能客服产品介绍", "domain": "department", "sourceUrl": "https://openvision.sg.larksuite.com/wiki/Ayr9wfiEYizK31kwFVrlu474gDe" },
+    { "path": "department/qqz/competitor-analysis.md", "title": "竞品对比", "domain": "department", "sourceUrl": "https://openvision.sg.larksuite.com/wiki/CPaEw5VwoiXzzkk9zQhlG7WRg5d" },
+    { "path": "department/qqz/req-v1.3.0.1-agent-im.md", "title": "v1.3.0.1人工坐席IM-实时聊天&排班版", "domain": "department", "sourceUrl": "https://openvision.sg.larksuite.com/wiki/Khc7wJ3JKiCrikkPWbslvSJygf7" },
+    { "path": "department/qqz/req-v1.3.0.2-vip-home.md", "title": "v1.3.0.2首页VIP改版", "domain": "department", "sourceUrl": "https://openvision.sg.larksuite.com/wiki/YcBEwAf2piCOUmk78aJl6Zkggtc" },
+    { "path": "department/qqz/tech-agent-im.md", "title": "人工坐席IM技术选型", "domain": "department", "sourceUrl": "https://openvision.sg.larksuite.com/wiki/L9ESwkcEhiJHzSkXeLPlDs5ZgEh" },
+    { "path": "department/qqz/tech-auth-microservice.md", "title": "智能客服用户认证与微服务调用流程", "domain": "department", "sourceUrl": "https://openvision.sg.larksuite.com/wiki/XoPbwXcjHi6XB4kS9hIleUd4gyg" },
+    { "path": "department/qqz/experience-flow-guide.md", "title": "智能客服体验流程指引", "domain": "department", "sourceUrl": "https://openvision.sg.larksuite.com/wiki/ZyYjwCd86i5nTMkRHTblF4Dvgdd" }
+  ]
+}
