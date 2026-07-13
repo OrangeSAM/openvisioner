@@ -5,13 +5,11 @@ source_url: https://openvision.sg.larksuite.com/wiki/ZyYjwCd86i5nTMkRHTblF4Dvgdd
 
 # 智能客服体验流程指引
 
-### 智能客服体验流程指引
-
 #### 一、环境准备
 
-1、安装包地址：[Come -India’s No.1 Trusted Real-Money Fantasy Platform](https://web-in-test.testtocom.com/en)  
+1、安装包地址：[Come -India’s No.1 Trusted Real-Money Fantasy Platform](https://web-in-test.testtocom.com/en) 
 
-用户名：8123456001  密码：888888
+用户名：8123456001 密码：888888
 
 2、后台测试环境地址：[智能客服后台 - 登录](https://test-api.chatcomepyoer3z5b75emxofz3vq74hb.com/#/theme)
 
@@ -113,7 +111,7 @@ source_url: https://openvision.sg.larksuite.com/wiki/ZyYjwCd86i5nTMkRHTblF4Dvgdd
 
 ##### 6、修改银行卡
 
- 1）客服聊天页点击快速通道更换银行卡图标
+1）客服聊天页点击快速通道更换银行卡图标
 
 ![](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=NzkwZWZmYWQwOTYyZTc1ODZhYzhhNTk4Y2VkMjdmYTFfMDIwMmQwNGExZjFhOGRjM2Q1OWUwMWZkMjNlMmQwMjdfSUQ6NzY1OTIzODg0MDc0MTM1MTE0Ml8xNzgzNjcxMDMyOjE3ODM2NzQ2MzJfVjM)
 
@@ -121,11 +119,9 @@ source_url: https://openvision.sg.larksuite.com/wiki/ZyYjwCd86i5nTMkRHTblF4Dvgdd
 
 ![](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=ZjFlOWFjOGEyOWZiNDNlY2UzYTQyZDQ5NTU1YWYyMGRfOWU2ZmJmN2VlNGJlODliMDlmNzA5NjUyNzc0NDg4YWVfSUQ6NzY1OTcwMTM4MjIyNDEwNTE4OV8xNzgzNjcxMDMyOjE3ODM2NzQ2MzJfVjM)
 
-
-
 **7、结算延迟工单**
 
- 1）点击
+1）点击
 
 #### 三、行为树相关配置
 
@@ -141,15 +137,13 @@ source_url: https://openvision.sg.larksuite.com/wiki/ZyYjwCd86i5nTMkRHTblF4Dvgdd
 
 tag包含：default_question 配置默认问题
 
-tag包含：update_order_detail   将会走充值上传订单截图的逻辑
+tag包含：update_order_detail 将会走充值上传订单截图的逻辑
 
-tag包含：need_human_service   将会走人工客服逻辑
+tag包含：need_human_service 将会走人工客服逻辑
 
-tag包含：noDelete  将不允许删除
+tag包含：noDelete 将不允许删除
 
-tag包含： update_order_detail_withdraw  将会走提现工单服务
-
-
+tag包含： update_order_detail_withdraw 将会走提现工单服务
 
 ###### *4.1）default_question 配置默认问题*
 
@@ -159,7 +153,7 @@ tag包含： update_order_detail_withdraw  将会走提现工单服务
 
 ![](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=ODczM2M5YTFjNTNkNjQwZmYzNmUyZTM4OGUzMDliNWFfZWY3ZTQ4ZDJhNTA4Y2IzMWZhODRmNDVjODNjMGRmNDhfSUQ6NzY0NjMyNzY5NDI3NTIxOTE2NF8xNzgzNjcxMDMzOjE3ODM2NzQ2MzNfVjM)
 
-###### *4.2）update_order_detail   将会走充值上传订单截图的流程*
+###### *4.2）update_order_detail 将会走充值上传订单截图的流程*
 
 在四级应答文案节点上，配置“update_order_detail ” tag。代表当用户问三级节点的问题时，回答的答案会包含充值上传订单截图的流程
 
@@ -169,7 +163,7 @@ tag包含： update_order_detail_withdraw  将会走提现工单服务
 
 ![](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=Mjg5ZjhlNGExNDdlOGIyZTRiNTE0ZmU2MmY4ZmJmODFfZDNlNmVlYzMzYzE5NTM3NDRjYWIwMjY2MWMwNjIwNjRfSUQ6NzY0NjMyNzY5NDMzNDM4MTc5NF8xNzgzNjcxMDMyOjE3ODM2NzQ2MzJfVjM)
 
-###### *4.3）need_human_service   将会走人工客服逻辑*
+###### *4.3）need_human_service 将会走人工客服逻辑*
 
 在四级应答文案节点上，配置“need_human_service ” tag。代表当用户问三级节点的问题时，回答的答案会出现人工客服头像
 
@@ -190,8 +184,6 @@ tag包含： update_order_detail_withdraw  将会走提现工单服务
 4.3、看到操作栏的【TG验证码】，点击【TG验证码】，注意TG验证码需要再10分钟内输入，否则容易超时部署失败。输入TG验证码和TG二步验证码后，等待几分钟，部署状态变为【账号登录成功】，则TG自动化服务部署完成。
 
 ![](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=Y2ZmNmI1NDFmYWE0M2FjM2FlYmUyOTNkMjhmYzFmMTRfOTA2ODAxMmQ0NzIzZjFmM2I0YTJjN2Y5YjYxMTU3N2VfSUQ6NzY1NDgzMjkyODAyNjk4ODI1Nl8xNzgzNjcxMDMyOjE3ODM2NzQ2MzJfVjM)
-
-
 
 #### 六、绑定TG用户与机器人
 
@@ -214,8 +206,6 @@ tag包含： update_order_detail_withdraw  将会走提现工单服务
 ![](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=NzAxZGNhZjQwNGY0Zjk3NDQ4ODI3NmE0MTUzNmNmNjVfYTQzNDVhMzlhZGNiYzE0OGJkODNiYTkwN2U2MTA4YmVfSUQ6NzY1NDgzMjkyOTU0MTEzMjAwMF8xNzgzNjcxMDMzOjE3ODM2NzQ2MzNfVjM)
 
 ![](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=NDA3YWY4YWE0MjA3YjI4MTEwZmE0NjA2NjYzOWU1OGZfODY1YWQ5NTY2OTM0YzkwNTQ1MDc5OGNlY2U1MDA2YWVfSUQ6NzY1NDgzMjkzMDE0OTE5MTM5Ml8xNzgzNjcxMDMyOjE3ODM2NzQ2MzJfVjM)
-
-
 
 4、后台新建用户角色。
 
@@ -249,23 +239,15 @@ tag包含： update_order_detail_withdraw  将会走提现工单服务
 
 ![](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=MWVlMDIzM2ZhNWU0MzM3ZjU5NWIxZTgzYTc0OWI3MTdfMjA1Y2YyNTM0OTJiNzBkOGJjZWQyYTdkYzlhYjEyYzFfSUQ6NzY1NDgzMzQxNTc3MDA4MzAzN18xNzgzNjcxMDMyOjE3ODM2NzQ2MzJfVjM)
 
-
-
 ##### 2、工单操作
 
 [TopOne 智能客服处理流程0610 - Google 表格](https://docs.google.com/spreadsheets/d/1i4aD49rBfZk5eaAc3pzxSjD3aYr8WLSKwmUBvA3bxiQ/edit?gid=1858314524#gid=1858314524)
 
-
-
 ![](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=ZmNkM2E3ODQ5MWUxZjc2MzhhODVmNTMyODcxYWIzZDNfZWY0NjM1M2Q2NzlhYjk2ZmIxYWViOTU4ODI3Y2EzMzJfSUQ6NzY1NDgzMzQxNjk1MjgyNzYxNF8xNzgzNjcxMDMzOjE3ODM2NzQ2MzNfVjM)
-
-
 
 ![](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=ODk3MmE0ZTYyNDA1ZDUxODEyNTViYmU3YzQxYjA3NWJfOGM5ZDJlNmNjYjQ5MmQ2MDdlYjJjZTY5ZDM0MTFmNDNfSUQ6NzY1NDgzMzQxODA4OTMzNjU0M18xNzgzNjcxMDMzOjE3ODM2NzQ2MzNfVjM)
 
 ![](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=Yjk5MWUxZTUxMmIwNjUwZDc4YzAwMDVkMTUzYTViNmJfYzNhNzJiZjlhNGI0YWZmMmZhNThkODgyYjIyMDJmMWNfSUQ6NzY1NDgzMzQxODE1NjQ3ODE3NV8xNzgzNjcxMDMyOjE3ODM2NzQ2MzJfVjM)
-
-
 
 ![](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=OTc0ZThiNTk0ZjJjMzNlYjUzMWYxNzA2NzIyYmY1NWZfYmVjYzU1ODk1NzQ4MmVlZTE2OTM2MDdiNzQ3NjJiMGJfSUQ6NzY1NDgzMzQxNzI2NzM1MTI3Ml8xNzgzNjcxMDMyOjE3ODM2NzQ2MzJfVjM)
 
@@ -291,8 +273,6 @@ tag包含： update_order_detail_withdraw  将会走提现工单服务
 
 ---
 
- 
-
 ![](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=NDMwY2JkZWVkZjExMzE0ZTY1NGQxNWZiYjM3NDZjOThfZjk3NDMxZDhhNzkyNjM1NmVhYmNjNTE2NDY5Y2FhNDZfSUQ6NzY1NDgzMzQyMDA2OTA5NzE5Ml8xNzgzNjcxMDMyOjE3ODM2NzQ2MzJfVjM)
 
 使用方法：勾选和填写次数→应用，不勾选则不启用
@@ -303,15 +283,11 @@ tag包含： update_order_detail_withdraw  将会走提现工单服务
 
 ---
 
- 
-
 ![](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=YmVmNTI3NWNjOTUzOTk1NTA1NjZlMGMyYWUwNTQ3ZGZfYTNmMDJhMTBkNTJiZDQ1MmE1YmE0MTg2ODMxMzU1NGZfSUQ6NzY1NDgzMzQxOTE2NzQ1Mjg5NV8xNzgzNjcxMDMzOjE3ODM2NzQ2MzNfVjM)
 
 用途：开启后玩家提交充值工单，上传的支付凭证判断为有效凭证则自动匹配10分内该玩家相同金额的失败订单，匹配成功则替换自动工单的订单信息，若失败工单则保持原来状态。
 
 ---
-
- 
 
 ![](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=NjgxODc5ZWYyMmEwZThmYmQ4NGI1N2IxOGYwYmU0OTJfMjRlZjBiYjViNzgwNDVlMmQxNDE1MGI5M2EzZTc1OGNfSUQ6NzY1NDgzMzQxOTc3NTQ3OTUyOF8xNzgzNjcxMDMzOjE3ODM2NzQ2MzNfVjM)
 
@@ -321,23 +297,15 @@ tag包含： update_order_detail_withdraw  将会走提现工单服务
 
 ---
 
-
-
- 
-
 ![](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=ZjAxMTZiOTM2YzNlNWJmN2IxMzFjODg4Y2NlYTBjOTBfYjc2YTE1NjhlNTM1YTYzZmE0NGE1MTVlNGJhMjY4ODlfSUQ6NzY1NDgzMzQxOTExNjk5MDE3MV8xNzgzNjcxMDMyOjE3ODM2NzQ2MzJfVjM)
 
 使用方法：勾选和填写时间→应用，不勾选则不启用
 
 用途：间隔XX h未收到三方回调则再次自动发送查单/补单命令，优先发送补单命令，无补单命令则再次发送查单命令。（此功能仅针对充值单）---------------------------------------------------------------------------------------------------------------------------------
 
- 
-
 ![](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=YjA0OTdiZGY4NTE2MDAzNzY3ZDZlZWI0NTkxNDM0MzNfMzU3YjcwMzkyMzJkMjlkM2JmYjg3MmMxOTE2ODQ1MjVfSUQ6NzY1NDgzMzQxNjUyOTI1MjA2M18xNzgzNjcxMDMzOjE3ODM2NzQ2MzNfVjM)
 
 用途：开启后工单查单后超过24h还没收到UTR也没自动完结的工单，系统会自动完结。提现单提现失败率较高时可以开启此功能。
-
-
 
 #### 八、其他补充
 
@@ -346,8 +314,6 @@ tag包含： update_order_detail_withdraw  将会走提现工单服务
 1）智能客服主要解决部分常见常规性问答，若识别问题为充值类，提供充值提现订单号后，可以走工单流程。
 
 2）工单流程不能保证100%成功，所以定期需要人去工单列表筛选工单异常状态工单，进行分析，将分析结果反馈，看能否通过流程自动化掉。若不能可能需要人工干预。
-
-
 
 ##### 2、兜底方案：
 
@@ -412,7 +378,5 @@ tag包含： update_order_detail_withdraw  将会走提现工单服务
 -对更更多分盘。
 
 考核主指标：客服转人工率。差评率。
-
-
 
 [智能客服新盘接入指引](https://docs.google.com/spreadsheets/d/1S3MrVWz5jyLUXC-i5scAPquwD2pswF9cR6IkBUflqu8/edit?gid=2058474022#gid=2058474022)

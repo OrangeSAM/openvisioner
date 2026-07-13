@@ -3,7 +3,7 @@ title: 智能客服产品介绍
 source_url: https://openvision.sg.larksuite.com/wiki/Ayr9wfiEYizK31kwFVrlu474gDe
 ---
 
-<title>智能客服产品介绍</title>
+# 智能客服产品介绍
 
 # 一、关于产品
 
@@ -37,8 +37,6 @@ source_url: https://openvision.sg.larksuite.com/wiki/Ayr9wfiEYizK31kwFVrlu474gDe
 
 ![](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=NzMxMzJhZTI5MWNlZTZhZGVkOTM4NmIyMDc2MWQ1ODNfMTgyZWViMDFhODJmNGM2NjIwODFhOThjNDk0NGM4NjlfSUQ6NzY0NzUxOTA2Mjk0NTEyNDA2MV8xNzgzNjcxMDI5OjE3ODM2NzQ2MjlfVjM)
 
-
-
 ![](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=NDAwNDdmMWI1YjFiMmM4OTE5ODBhMTQxOGNiYzQwZDNfNjQ0ODdmOTJmMDhkMzkzYmMyNjcyZDBiMDNlODdkZDlfSUQ6NzY0NzUxODkzMzU2OTk5ODU2MF8xNzgzNjcxMDI5OjE3ODM2NzQ2MjlfVjM)
 
 # 四、阶段发展回顾与产品方向校准
@@ -53,8 +51,6 @@ source_url: https://openvision.sg.larksuite.com/wiki/Ayr9wfiEYizK31kwFVrlu474gDe
 > 
 > #### **3）大体量用户级别，针对VIP用户需要尽快从“被动售后服务”转换为“主动营销，构建品牌”阶段**
 
-
-
 **2、阶段问题解决方案**：
 
 > #### **1、打通智能客服与人工坐席服务闭环：新增“人工坐席IM”聊天功能**
@@ -65,10 +61,8 @@ source_url: https://openvision.sg.larksuite.com/wiki/Ayr9wfiEYizK31kwFVrlu474gDe
 > 
 > #### **4、持续融合游戏，打造“AI伴玩助手”**
 
-
-
 **3、对应产品规划**：
 
-<cite doc-id="KfmyweqYciYjSdk8qGvlOTqWgvg" file-type="wiki" title="智能客服里程碑" type="doc"></cite>
+《智能客服里程碑》
 
-<cite doc-id="QyI5wg3E1iIGJFkRrjElPeFnghg" file-type="wiki" title="全球站智能客服需求池2026" type="doc"></cite>
+《全球站智能客服需求池2026》
