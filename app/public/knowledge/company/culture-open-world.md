@@ -3,15 +3,13 @@ title: 敞亮世界（企业文化）
 source_url: https://openvision.sg.larksuite.com/wiki/Q2alwnDAmiHpUBkKnKDl1ohygDc
 ---
 
-<title>敞亮世界</title>
+# 敞亮世界
 
 ![](https://feishu.cn/file/NXC5brRXEodIOmx3IQzlhVbWgxg)
 
 公司介绍
 
-    我们是一家以“真诚为根基，矛盾为引擎，创新为路径”的共生型企业，致力于精品游戏与全球化布局为用户带来前所未有乐趣的使命，愿景驱动社会进步的去中心化行业先驱者**。**
-
-
+我们是一家以“真诚为根基，矛盾为引擎，创新为路径”的共生型企业，致力于精品游戏与全球化布局为用户带来前所未有乐趣的使命，愿景驱动社会进步的去中心化行业先驱者**。**
 
 我们的文化内核
 
@@ -23,7 +21,7 @@ source_url: https://openvision.sg.larksuite.com/wiki/Q2alwnDAmiHpUBkKnKDl1ohygDc
 
 ---
 
-# <cite doc-id="RRDHwIuGFiACNNkwctwlNKqcgig" file-type="wiki" title="畅“想响享翔”生命" type="doc"></cite>
+# 《畅“想响享翔”生命》
 
 > 点击标题查看详情
 
@@ -36,11 +34,9 @@ source_url: https://openvision.sg.larksuite.com/wiki/Q2alwnDAmiHpUBkKnKDl1ohygDc
 
 ![](https://feishu.cn/file/I05qb8hBBo54cGx1ZDhlMVuTg1e)
 
-
-
 ---
 
-# <cite doc-id="Zj4CwT9BOitDIPkpMR6lz1Oig7d" file-type="wiki" title="亮剑发声" type="doc"></cite>
+# 《亮剑发声》
 
 > 点击标题查看详情
 
@@ -51,11 +47,9 @@ source_url: https://openvision.sg.larksuite.com/wiki/Q2alwnDAmiHpUBkKnKDl1ohygDc
 
 ![](https://feishu.cn/file/MRUwbJFaJoUbgnxLmoPlQWKCgHi)
 
-
-
 ---
 
-# <cite doc-id="KbWwwtHctiowFukNpuslbBhig5b" file-type="wiki" title="科技向善" type="doc"></cite>
+# 《科技向善》
 
 > 点击标题查看详情
 
@@ -67,11 +61,9 @@ source_url: https://openvision.sg.larksuite.com/wiki/Q2alwnDAmiHpUBkKnKDl1ohygDc
 
 ![](https://feishu.cn/file/QZkfbN8sXoSSF9xKShTlcnaRggf)
 
-
-
 ---
 
-# <cite doc-id="KpUHwG421iqZPpkv9rElBy8fgEh" file-type="wiki" title="技术干货" type="doc"></cite>
+# 《技术干货》
 
 > 点击标题查看详情
 

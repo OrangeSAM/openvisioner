@@ -7,23 +7,23 @@ source_url: https://openvision.sg.larksuite.com/wiki/IbSMwGnqPiAhFwk4NBXluN7Kgng
 
 ## 1、考勤管理制度
 
-<source mime="application/pdf" token="Q7bMbhIPIo6Ro5xX2SOlTrwGgHb"/>
+[视频]
 
 ## 2、招聘管理制度
 
-<source mime="application/pdf" token="K88jb3RZroFt76xvEMXlRHjAg8e"/>
+[视频]
 
 ## 3、福利管理制度
 
-<source mime="application/pdf" token="A7o6bvBNPoFtMOxZVValHANigOd"/>
+[视频]
 
 ## 4、奖金管理制度
 
-<source mime="application/pdf" token="I891bnXU2oFajCxnck4lnOLDg1g"/>
+[视频]
 
 ## 5、海外管理制度
 
-<source mime="application/pdf" token="C7UhbEFQbo47qdxjt5plx3z8gzf"/>
+[视频]
 
 ## 6、绩效管理制度
 
@@ -43,10 +43,10 @@ source_url: https://openvision.sg.larksuite.com/wiki/IbSMwGnqPiAhFwk4NBXluN7Kgng
 
 ## 10、试用期管理制度
 
-<source mime="application/pdf" token="MVnSbaRN6orbSmxYQxVlpbnDgIg"/>
+[视频]
 
 ## 11、新人导师管理制度
 
-<source mime="application/pdf" token="NtsYbdTrxodxacx68MelsNrkgBc"/>
+[视频]
 
 ## 备注
