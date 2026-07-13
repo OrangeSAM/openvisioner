@@ -51,9 +51,9 @@ app/
 │       └── retrieval.ts        # 语料分块、embedding 缓存、余弦相似度检索
 ├── src-tauri/                  # Rust 侧 Tauri 壳（notification/store/shell/opener 插件）
 └── public/knowledge/           # 离线预抓取的真实语料（见下）
-    ├── manifest.json           # 语料索引（标题/域/来源链接）
-    ├── company/*.md            # 公司通用域：企业文化、HR/行政/财务制度
-    ├── department/qqz/*.md     # 部门业务域：QQZ 智能客服产品/技术/需求文档
+    ├── manifest.json           # 语料索引（标题/域/来源链接），共 37 篇
+    ├── company/*.md            # 公司通用域：企业文化、HR/行政/财务/法务制度、AI LAB 指引、培训材料（13 篇）
+    ├── department/qqz/*.md     # 部门业务域：QQZ 智能客服产品/技术/需求/运维/内部分享（24 篇）
     └── personal/fly/
         ├── plan.json           # fly 的真实新人培训计划（结构化）
         └── chat-digest.json    # 群聊摘要（脱敏，无发言人/无逐字引用）
